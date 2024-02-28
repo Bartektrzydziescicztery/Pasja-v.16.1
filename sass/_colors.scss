@@ -1,0 +1,60 @@
+//
+$background-gradient-1: linear-gradient(
+	245deg,
+	rgba(0, 0, 0, 1) 0%,
+	rgba(93, 65, 58, 1) 100%
+);
+$background-gradient-2: linear-gradient(
+	245deg,
+	rgb(107, 34, 16) 0%,
+	rgb(166, 91, 49) 100%
+);
+
+$background-gradient-3: linear-gradient(
+	245deg,
+	rgb(19, 6, 5) 0%,
+	rgb(17, 11, 10) 100%
+);
+
+$background-gradient-4: linear-gradient(
+	45deg,
+	hsl(0deg 0% 0%) 0%,
+	hsl(0deg 86% 0%) 11%,
+	hsl(0deg 86% 1%) 22%,
+	hsl(0deg 86% 1%) 33%,
+	hsl(0deg 86% 1%) 44%,
+	hsl(0deg 86% 2%) 56%,
+	hsl(0deg 86% 2%) 67%,
+	hsl(0deg 86% 2%) 78%,
+	hsl(0deg 86% 2%) 89%,
+	hsl(0, 87%, 3%) 100%
+);
+// rgb(14, 1, 1)
+// #0e0101
+
+$text-color-primary: rgb(255, 236, 216);
+$text-color-primary-muted: rgb(136, 128, 120);
+// $text-color-primary: #ffecd8;
+
+// color: antiquewhite;
+// color: #faebd7;
+$stara-pasja: #faebd7; // antiquewhite
+
+$text-color-secondary: rgb(17, 11, 10);
+// $text-color-secondary: #110b0a;
+$bg-light: #f8f9fa;
+$bg-light-darker: #f7f8f9;
+
+// colors:
+// antiquewhite; #faebd7; rgb(250, 235, 215);
+// almond: #eae0d5
+
+//
+$color-secondary: #ffd268;
+// $color-secondary: #308b70;
+$color-secondary-050: rgba(48, 139, 112, 0.5);
+$color-secondary-025: rgba(48, 139, 112, 0.25);
+$home-color-hover: #39a887; // jasniejszy
+$home-color-focus: #20c997; // --bs-teal // najjasniejszy
+//
+$button-text-color: rgb(255, 253, 224);
